@@ -4,6 +4,6 @@
 
 
 ### Link da Calculadora
-* https://jakelyny.github.io/Formulario-LPBD-LocalStorage/
+* https://jakelyny.github.io/Calculadora-de-Media/
 
 ##### Projeto baseado na Imersão_dev alura
