@@ -17,11 +17,16 @@ body {
   .page-title {
     color:#ffffff;
     margin: 0 0 5px;
+    text-transform: uppercase;
+    padding: 0.5%;
+    text-decoration: none;
+    letter-spacing: 3px;
   }
   
   .page-subtitle {
     color:#ffffff;
     margin-top: 5px;
+    letter-spacing: 2px;
   }
  
   .imgCalculadora {
