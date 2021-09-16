@@ -57,10 +57,11 @@ body {
     font-weight: 700;
     border: none;
     padding: 10px;
+    width: 120px;
     cursor: pointer;
     background-color: #141E8B;
     color: #ffffff;
-    border-radius: 15%;
+    border-radius: 12px;
   }
 
   h2 {
