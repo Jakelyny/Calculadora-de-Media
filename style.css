@@ -45,3 +45,11 @@ body {
   input:focus {
     background-color: #f1dcdc;
   }
+
+  h2 {
+    background-color: #2d3485;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-decoration: none;
+    width: 100%;
+  }
