@@ -6,4 +6,4 @@
 ### Link da Calculadora
 * https://jakelyny.github.io/Calculadora-de-Media/
 
-##### Projeto baseado na Imersão_dev alura
+####   Baseado na imersão dev_alura
