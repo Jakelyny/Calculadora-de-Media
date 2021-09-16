@@ -36,6 +36,11 @@ body {
     right: 30px;
   }
 
+  hr {
+    width: 100%;
+    border-color: #b7e6f8;
+  }
+
   label:hover {
     font-weight: bold;
     cursor: pointer;
