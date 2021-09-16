@@ -46,6 +46,18 @@ body {
     background-color: #f1dcdc;
   }
 
+  button {
+    margin-left: 40px;
+    font-size: 14px;
+    font-weight: 700;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    background-color: #141E8B;
+    color: #ffffff;
+    border-radius: 15%;
+  }
+
   h2 {
     background-color: #2d3485;
     color: #ffffff;
