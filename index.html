@@ -17,10 +17,10 @@
         <p class="page-subtitle"> Vamos descobrir qual a sua média escolar utilizando suas notas ! </p>
         <img src="ImgCalculadora.png" class="imgCalculadora" alt="Uma calculadora dentro de um círculo">
         <p>
-            <label>Primeira nota: <input type="number" id="primeiraNota" required></label>
+            <label>Primeira nota: <input type="number" id="primeiraNota" maxlength="10" required></label>
         </p>
         <p>
-            <label>Segunda nota: <input type="number" id="segundaNota" class="form-control" required></label>
+            <label>Segunda nota: <input type="number" id="segundaNota" class="form-control" maxlength="10" required></label>
         </p>
         <button type="submit" onclick="Calcular()">Calcular</button>
         <h2 class="resultado" id="resultado"></h2>
